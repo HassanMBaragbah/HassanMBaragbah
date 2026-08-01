@@ -44,10 +44,9 @@ An **Artificial Intelligence & Data Science Engineer** expanding into low-level 
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=HassanMBaragbah&show_icons=true&theme=tokyonight" width="400" height="200" />
-  &nbsp;
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=HassanMBaragbah&layout=compact&theme=tokyonight" width="400" height="200" />
+<p align="left">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=HassanMBaragbah&show_icons=true&theme=tokyonight" alt="Hassan's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=HassanMBaragbah&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
 
 ---
