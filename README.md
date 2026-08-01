@@ -5,11 +5,11 @@ An **Artificial Intelligence & Data Science Engineer** expanding into low-level 
 ---
 
 ### 🚀 About Me
-- 🔭 **Currently:** Software Engineering Apprentice at **Tuwaiq Academy | Holberton School**, deepening expertise in C, system architecture, data structures, and algorithms[cite: 1].
-- 🎓 **Education:** B.S. in Artificial Intelligence from **Imam Abdulrahman Bin Faisal University**[cite: 1].
-- 🧠 **Focus Areas:** Deep Learning (LSTM, CNNs), Predictive Modeling, Time-Series Forecasting, and Systems Programming[cite: 1].
-- 💬 **Ask me about:** Python, Machine Learning workflows, Data Analytics, C programming, and SQL[cite: 1].
-- 📫 **How to reach me:** [hmbaragbah@gmail.com](mailto:hmbaragbah@gmail.com) | [LinkedIn](https://www.linkedin.com/in/hassanbaragbah/)[cite: 1]
+- 🔭 **Currently:** Software Engineering Apprentice at **Tuwaiq Academy | Holberton School**, deepening expertise in C, system architecture, data structures, and algorithms.
+- 🎓 **Education:** B.S. in Artificial Intelligence from **Imam Abdulrahman Bin Faisal University**.
+- 🧠 **Focus Areas:** Deep Learning (LSTM, CNNs), Predictive Modeling, Time-Series Forecasting, and Systems Programming.
+- 💬 **Ask me about:** Python, Machine Learning workflows, Data Analytics, C programming, and SQL.
+- 📫 **How to reach me:** [hmbaragbah@gmail.com](mailto:hmbaragbah@gmail.com) | [LinkedIn](https://www.linkedin.com/in/hassanbaragbah/)
 
 ---
 
@@ -29,28 +29,34 @@ An **Artificial Intelligence & Data Science Engineer** expanding into low-level 
 ### ⚡ Featured Projects
 
 - **📈 Saudi Stock Market Analysis & Forecasting**
-  * Built an LSTM deep learning model for time-series forecasting to predict market trends across major Saudi equities[cite: 1].
-  * *Tech Stack:* Python, TensorFlow/PyTorch, Pandas, Matplotlib[cite: 1]
+  * Built an LSTM deep learning model for time-series forecasting to predict market trends across major Saudi equities.
+  * *Tech Stack:* Python, TensorFlow/PyTorch, Pandas, Matplotlib
 
 - **👁️ Retinal Pathologies Prediction (Senior Project)**
-  * Designed transfer learning architectures leveraging clinical imaging databases to support diagnostic decision-making[cite: 1].
-  * *Tech Stack:* Python, Deep Learning, Transfer Learning[cite: 1]
+  * Designed transfer learning architectures leveraging clinical imaging databases to support diagnostic decision-making.
+  * *Tech Stack:* Python, Deep Learning, Transfer Learning
 
 - **🩺 Diabetes Risk Assessment System**
-  * Developed predictive machine learning models in Python for early health risk detection using key clinical indicators[cite: 1].
-  * *Tech Stack:* Python, Scikit-learn, Feature Engineering[cite: 1]
+  * Developed predictive machine learning models in Python for early health risk detection using key clinical indicators.
+  * *Tech Stack:* Python, Scikit-learn, Feature Engineering
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=HassanMBaragbah&show_icons=true&theme=tokyonight" alt="Hassan's GitHub Stats" width="45%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=HassanMBaragbah&layout=compact&theme=tokyonight" alt="Top Languages" width="45%" />
-</p>
+<table border="0">
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=HassanMBaragbah&show_icons=true&theme=tokyonight" alt="Hassan's GitHub Stats" width="100%" height="165" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=HassanMBaragbah&layout=compact&theme=tokyonight" alt="Top Languages" width="100%" height="165" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 <p align="center">
-  <i>"Driven to deliver data-driven innovation and build highly efficient intelligent solutions."</i>[cite: 1]
+  <i>"Driven to deliver data-driven innovation and build highly efficient intelligent solutions."</i>
 </p>
