@@ -45,8 +45,8 @@ An **Artificial Intelligence & Data Science Engineer** expanding into low-level 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=m7md-d&show_icons=true&theme=tokyonight" alt="Hassan's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=m7md-d&layout=compact&theme=tokyonight" alt="Top Languages" width="43%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=yazeed-aljihane&show_icons=true&theme=tokyonight" alt="Hassan's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yazeed-aljihane&layout=compact&theme=tokyonight" alt="Top Languages" width="43%" />
 </p>
 
 ---
